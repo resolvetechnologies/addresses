@@ -15,5 +15,5 @@
 
 | Contract           | Address                                      | Links                                                                                                                                                                                               |
 |--------------------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    Lysi    | `0x035892f4eCc243D473d27a163BACbD3Abd067EE8` | [source code](https://github.com/Kaiketsu-org/core/blob/main/contracts/token/Lysi.sol) [Gnosis Chiado](https://gnosis-chiado.blockscout.com/address/0x035892f4eCc243D473d27a163BACbD3Abd067EE8)   |
+|    Lysi    | `0x035892f4eCc243D473d27a163BACbD3Abd067EE8` | [source code](https://github.com/Kaiketsu-org/core/blob/main/contracts/token/Lysi.sol) [gnosis chiado](https://gnosis-chiado.blockscout.com/address/0x035892f4eCc243D473d27a163BACbD3Abd067EE8)   |
 
